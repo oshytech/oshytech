@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [eLearning Media](https://elearningmedia.es/)
 
-- 🌱 I’m currently learning **Data Science at UOC and DDD at Codely**
+- 🌱 I’m currently learning **Data Science at UOC and Máster en Desarrollo con IA at Big school**
 
 - 👯 Maintaning [Rolteca](https://rolteca.com)
 
